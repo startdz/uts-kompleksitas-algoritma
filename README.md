@@ -1,6 +1,6 @@
 # Kompleksitas Algoritma
 
-Repository ini berisi kumpulan program Python untuk memenuhi tugas mata kuliah **Kompleksitas Algoritma**.
+Repository ini berisi kumpulan program Python untuk memenuhi tugas UTS mata kuliah **Kompleksitas Algoritma**.
 
 ## Identitas
 
